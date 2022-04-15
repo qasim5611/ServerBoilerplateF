@@ -1,4 +1,12 @@
-# content-api
-api for contentgizmo app
+# NodeJs Server Complete BoilerPlate Saved
 
-mudassir updates 11:50am
+
+Complete Login Auth System + 
+Nodemailer + 
+Form Validations + 
+code structure +
+others...
+
+
+
+
